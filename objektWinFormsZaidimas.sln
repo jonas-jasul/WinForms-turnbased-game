@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "objektWinFormsZaidimas", "objektWinFormsZaidimas\objektWinFormsZaidimas.csproj", "{5A028A6B-35A9-4524-AC85-01E19E92EBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A028A6B-35A9-4524-AC85-01E19E92EBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A028A6B-35A9-4524-AC85-01E19E92EBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A028A6B-35A9-4524-AC85-01E19E92EBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A028A6B-35A9-4524-AC85-01E19E92EBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3622A57D-239F-4125-B10E-A9D34AB59A67}
+	EndGlobalSection
+EndGlobal
