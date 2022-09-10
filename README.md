@@ -1,5 +1,5 @@
-<p align="center">A simple turn based combat game made with WinForms and C#</p>
-  Features:
+<h2 align="center">A simple turn based combat game made with WinForms and C#</h2>
+  <b>Features:</b>
   <br>
   <p>1. Ability to enter the name of the player;</p>
   <p>2. Ability to choose between "Warrior" and "Mage" class;</p>
